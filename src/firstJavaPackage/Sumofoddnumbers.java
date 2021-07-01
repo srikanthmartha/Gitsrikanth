@@ -17,7 +17,8 @@ public class Sumofoddnumbers {
 			   } 
 			}
 			System.out.println(res);
-			
+			System.out.println("hello");
+			System.out.println("hi");
 			
 		}
 	}
